@@ -1,0 +1,19 @@
+class My_details 
+{
+	public static void main(String[] args) 
+	{
+		String a="Pradeep";
+		System.out.println(a);
+		int b=21;
+		System.out.println(b);
+		String c="jspiderss";
+		System.out.println(c); 
+		double d=70.1;
+        System.out.println(d);
+		String e=" My city name is vijayawada";
+		System.out.println(e);
+		long f=6305486374l;
+		System.out.println(f);
+
+	}
+}
